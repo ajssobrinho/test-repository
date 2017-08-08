@@ -1,1 +1,2 @@
 Test Git Quick Start demo
+Bem, aqui está um ficheiro teste que criei para poder testar o git
